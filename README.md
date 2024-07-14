@@ -22,9 +22,14 @@
 To run the main application:
 ```sh
 node index.js
+```
 
-## Testing
+## Testing 
 
 To run the tests:
 ```sh
 npm test
+```
+
+
+
