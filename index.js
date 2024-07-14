@@ -43,6 +43,7 @@ async function main() {
     const result = userTaskCompletion.filter(
       (user) => user.taskCompletionPercentage > 50
     );
+    console.log(result);
   } catch (error) {
     console.error("Error fetching data:", error);
   }
